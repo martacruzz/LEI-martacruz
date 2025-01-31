@@ -18,7 +18,7 @@
 
 In this section you will find all my lecture notes, slides, solved problem sets & solved past papers organised by year.
 
-| 1st year               |                      | 2nd year               |                  | 3rd year         |                  |
+| 1st year               | 2nd year             | 3rd year               |
 | ---------------------- | -------------------- | ---------------------- | ---------------- | ---------------- | ---------------- |
 | **1st Semester**       | **2nd Semester**     | **1st Semester**       | **2nd Semester** | **1st Semester** | **2nd Semester** |
 | [ALGA](lectures/alga/) | [CII](lectures/cii/) | [AED](lectures/aed/)   | -                | -                | -                |
@@ -33,7 +33,7 @@ In this section you will find all my lecture notes, slides, solved problem sets 
 
 In this section you will find all my academic projects built throughout the bachelor's degree.
 
-| 1st year             |                  | 2nd year               |                  | 3rd year         |                  |
+| 1st year             | 2nd year         | 3rd year               |
 | -------------------- | ---------------- | ---------------------- | ---------------- | ---------------- | ---------------- |
 | **1st Semester**     | **2nd Semester** | **1st Semester**       | **2nd Semester** | **1st Semester** | **2nd Semester** |
 | -                    | -                | [AED](lectures/aed/)   | -                | -                | -                |
