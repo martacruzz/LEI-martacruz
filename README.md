@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="Uni Hub Banner" width="100%" style="max-width: 900px; height: 250px; object-fit: contain; border-radius: 10px;">
+  <img src="assets/banner.gif" alt="Uni Hub Banner" style="height: 250px; width: auto; max-width: 100%; border-radius: 10px;">
 </p>
 
 # 🚀 Uni hub
