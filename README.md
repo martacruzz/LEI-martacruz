@@ -1,8 +1,7 @@
 # 🚀 Uni hub
 > A collection of my lecture notes, projects & past parpers.
 
-![Banner](assets/banner.png)  
-*(Replace this with a cool banner image!)*
+![Banner](https://www.notion.so/image/https%3A%2F%2Fi.pinimg.com%2Foriginals%2F86%2Fd7%2F5a%2F86d75a902dda5a4c6ac4b95d8a5afba4.gif?table=block&id=e020c33e-9e54-4930-8010-2ee4d1431830&spaceId=4ce89bf7-f49a-4741-a560-9904b9033e0d&userId=8cb220b5-0618-4426-bec7-cac913ebee31&cache=v2)  
 
 ## 📖 Table of Contents
 - [📚 UCs](#-ucs)
