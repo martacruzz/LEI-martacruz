@@ -3,7 +3,7 @@
 > A collection of my lecture notes, projects & past parpers.
 
 <p align="center">
-  <img src="assets/banner.gif" alt="Uni Hub Banner">
+  <img src="assets/banner.gif" alt="Uni Hub Banner" width="100%" style="max-width: 900px; border-radius: 10px;">
 </p>
 
 ## 📖 Table of Contents
