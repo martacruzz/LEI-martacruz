@@ -18,14 +18,61 @@
 
 In this section you will find all my lecture notes, slides, solved problem sets & solved past papers organised by year.
 
-| 1st year               |                      | 2nd year               |                  | 3rd year         |                  |
-| ---------------------- | -------------------- | ---------------------- | ---------------- | ---------------- | ---------------- |
-| **1st Semester**       | **2nd Semester**     | **1st Semester**       | **2nd Semester** | **1st Semester** | **2nd Semester** |
-| [ALGA](lectures/alga/) | [CII](lectures/cii/) | [AED](lectures/aed/)   | -                | -                | -                |
-| [CI](lectures/ci/)     | [IAC](lectures/iac/) | [MPEI](lectures/mpei/) | -                | -                | -                |
-| [FP](lectures/fp/)     | [POO](lectures/poo/) | [RS](lectures/rs/)     | -                | -                | -                |
-| [ITW](lectures/itw/)   | [MD](lectures/md/)   | [SM](lectures/sm/)     | -                | -                | -                |
-| [MAS](lectures/mas/)   | [MSF](lectures/msf/) | [SO](lectures/so/)     | -                | -                | -                |
+<table>
+  <tr>
+    <th colspan="2">1st Year</th>
+    <th colspan="2">2nd Year</th>
+    <th colspan="2">3rd Year</th>
+  </tr>
+  <tr>
+    <th>1st Semester</th>
+    <th>2nd Semester</th>
+    <th>1st Semester</th>
+    <th>2nd Semester</th>
+    <th>1st Semester</th>
+    <th>2nd Semester</th>
+  </tr>
+  <tr>
+    <td><a href="lectures/alga/">ALGA</a></td>
+    <td><a href="lectures/cii/">CII</a></td>
+    <td><a href="lectures/aed/">AED</a></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><a href="lectures/ci/">CI</a></td>
+    <td><a href="lectures/iac/">IAC</a></td>
+    <td><a href="lectures/mpei/">MPEI</a></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><a href="lectures/fp/">FP</a></td>
+    <td><a href="lectures/poo/">POO</a></td>
+    <td><a href="lectures/rs/">RS</a></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><a href="lectures/itw/">ITW</a></td>
+    <td><a href="lectures/md/">MD</a></td>
+    <td><a href="lectures/sm/">SM</a></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><a href="lectures/mas/">MAS</a></td>
+    <td><a href="lectures/msf/">MSF</a></td>
+    <td><a href="lectures/so/">SO</a></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+</table>
 
 ---
 
@@ -33,14 +80,61 @@ In this section you will find all my lecture notes, slides, solved problem sets 
 
 In this section you will find all my academic projects built throughout the bachelor's degree.
 
-| 1st year             |                  | 2nd year               |                  | 3rd year         |                  |
-| -------------------- | ---------------- | ---------------------- | ---------------- | ---------------- | ---------------- |
-| **1st Semester**     | **2nd Semester** | **1st Semester**       | **2nd Semester** | **1st Semester** | **2nd Semester** |
-| -                    | -                | [AED](lectures/aed/)   | -                | -                | -                |
-| -                    | -                | [MPEI](lectures/mpei/) | -                | -                | -                |
-| [FP](lectures/fp/)   | -                | [RS](lectures/rs/)     | -                | -                | -                |
-| [ITW](lectures/itw/) | -                | -                      | -                | -                | -                |
-| [MAS](lectures/mas/) | -                | [SO](lectures/so/)     | -                | -                | -                |
+<table>
+  <tr>
+    <th colspan="2">1st Year</th>
+    <th colspan="2">2nd Year</th>
+    <th colspan="2">3rd Year</th>
+  </tr>
+  <tr>
+    <th>1st Semester</th>
+    <th>2nd Semester</th>
+    <th>1st Semester</th>
+    <th>2nd Semester</th>
+    <th>1st Semester</th>
+    <th>2nd Semester</th>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td><a href="projects/aed/">AED Project</a></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td><a href="projects/mpei/">MPEI Project</a></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><a href="projects/fp/">FP Project</a></td>
+    <td>-</td>
+    <td><a href="projects/rs/">RS Project</a></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><a href="projects/itw/">ITW Project</a></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><a href="projects/mas/">MAS Project</a></td>
+    <td>-</td>
+    <td><a href="projects/so/">SO Project</a></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+</table>
 
 ## 🎓 Resources
 
